@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Welcome to my page!  
-I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :india:
+Welcome to my profile!  
+I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :india:<br/>I'm passionate about front-end developement ,python and of course Opensource.Even though I normally use JS, I love to learn and contribute to anything that interests me.
 
 ### Things I code with
 
@@ -15,5 +15,7 @@ I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :in
 
 ### Where to find me 
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VipinVIP) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinVKP) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-k-p-615843190/)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VipinVIP) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinVKP) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-k-p/)
+
+
 
