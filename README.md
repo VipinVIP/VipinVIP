@@ -1,13 +1,16 @@
 ## Hi there 👋
 
 Welcome to my profile!  
-I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :india:<br/>I'm passionate about front-end developement ,python and of course Opensource.Even though I normally use JS, I love to learn and contribute to anything that interests me.
+I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :india:<br/>I'm passionate about front-end developement ,python:snake: and of course Opensource :octocat: .Even though I normally use JS, I love to learn and contribute to anything that interests me.
+
+
 
 ### Things I code with
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7509f6?style=flat-square&logo=bootstrap&logoColor=white) 
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Nextjs-fafafa?style=flat-square&logo=Next.js&logoColor=black) 
 <br/>
 <br/>
 
