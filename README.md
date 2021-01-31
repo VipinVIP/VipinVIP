@@ -1,7 +1,13 @@
-## Hi there 👋
+## 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"> 
+
 
 Welcome to my profile!  
 I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :india:<br/>I'm passionate about front-end developement ,python:snake: and of course Opensource :octocat: .Even though I normally use JS, I love to learn and contribute to anything that interests me.
+
+- 🌱 Currently learning Typescript & Linux :penguin:
+- 🔭 Currently working on [RocketMeet-client](https://github.com/RocketMeet/RocketMeet-client)
+- ❤️️ Loves to Experiment new technologies/stacks 
+- 🌌 Amazed on how universe works 
 
 
 
