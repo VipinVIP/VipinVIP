@@ -20,7 +20,9 @@ I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :in
 <br/>
 <br/>
 
-[![VipinVIP's github stats](https://github-readme-stats.vercel.app/api?username=VipinVIP&show_icons=true&theme=default)](https://github.com/VipinVIP/)
+[![VipinVIP's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VipinVIP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/VipinVIP)
+
+
 
 ### Where to find me 
 
