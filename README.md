@@ -22,10 +22,8 @@ I am VIPIN K P, a CS engineering Student 💻  ,living in  **Kerala, India** :in
 
 [![VipinVIP's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VipinVIP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/VipinVIP)
 
-
 ### Where to find me 
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VipinVIP) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinVKP) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-k-p/)
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
+
